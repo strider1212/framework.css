@@ -39,3 +39,8 @@
   float: left;
   width: 41.666666666666667%;
 }
+
+.col-6 {
+  float: left;
+  width: 50%;
+}
