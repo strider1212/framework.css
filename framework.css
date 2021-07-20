@@ -69,3 +69,8 @@
   float: left;
   width: 91.666666666666667%;
 }
+
+.col-12 {
+  float: left;
+  width: 100%;
+}
